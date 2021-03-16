@@ -1,6 +1,6 @@
-bf763d30995b673992d9e89fee1e3da2 *DESCRIPTION
+b5aae90285d5254076813419d07aaadc *DESCRIPTION
 8723f691e371abaebe8e5b4089be3975 *NAMESPACE
-3a2c3b2e7fc08fd9f73b71c3f8501e30 *NEWS
+443cce1cc14ace2c70e50926dbae2713 *NEWS.md
 14e7421de46ec2d51f97547613958eca *R/EPSGO.R
 b1e7b5d4f74093c73f58e5413058994e *R/auc.R
 4ca09c9e7a01557a832bae2b97ed1d3f *R/balancedFolds.R
@@ -13,6 +13,7 @@ f13a06d844b4e98b65cf1fef7a593a43 *R/plot_summary_inter_search.R
 764f57f1f8279cd798c876475e42126c *R/stabilityselection.R
 828689648276bf83b98b3a830014de56 *R/summary_inter_search.R
 04cc7054551a3e7cf1fdbbeb10b2c2b5 *R/tune_glmnet_interval.R
+dc43b3e03493f5304f477066d6a2dd4d *README.md
 d41cd3ca5c8704762e47e49907f39635 *inst/CITATION
 3efe6c623b6f198c48d44a9d226a7f73 *man/EPSGO.Rd
 d51ed970b05699125bfd6b3ba990b9b2 *man/PLL.coxnet.Rd
@@ -22,6 +23,7 @@ c88bb31d4e949c0aff6425daf1954f36 *man/Plot.peperr.curves.Rd
 72bffbfaa4e6aacd54386c1c1b588e03 *man/balancedFolds.Rd
 2a78862395e589fd30b8b720c7c597f5 *man/coef.intsearch.Rd
 a6c846776ccabbbcad876cc85ab6f887 *man/complexity.glmnet.Rd
+f232998ec2d14ac5dc5558c9b4875fa9 *man/figures/logo.png
 518156877d63c96c4aa97eeff539ed7e *man/fit.glmnet.Rd
 42fb53115ebf8206d95fd1681ec7da40 *man/plot.stabpath.Rd
 94240cd63e6d1a7454b31a33729369c0 *man/plot.summary.int.Rd
